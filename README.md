@@ -10,10 +10,13 @@ hazarding a prediction.
 The challenge of the Covid-19 prediction is the most crucial component for countries and
 global health institutions. A successful and accurate prediction to the future covid cases
 ultimately results in better management of the pandemic.
+
 Part -01:
 The objective of the first part of the problem statement is to predict the Covid Cases of a
 City on 1st September 2020. The output file 01 should contain only City and the respective
 Covid Cases for the test data.
+
+
 Part -02:
 The Foreign Visitors of a city is a time-dependent parameter, for which you have to come up
 with a Time-series prediction model. Using the Foreign Visitors predicted by the model, you
