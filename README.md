@@ -28,7 +28,7 @@ output file 02 should contain only City and the respective Covid Cases on 1st Oc
 Part 1:
 
 **Data Cleaning:**
-The data was clean for most of the part except for NaN values and some inconsistent data entries(like m.c and m.c. were two different values in the 'Type' column).So,we removed NaN values with simple imputation techniques and also fixed the incocnsistent data entries.
+The data was clean for most of the part except for NaN values and some inconsistent data entries(like m.c and m.c. were two different values in the 'Type' column).So,we removed NaN values with simple imputation techniques and also fixed the inconsistent data entries.
 
 **Features:**
 We dropped the 'City' and 'Population 2001' columns as city column was irrelevant for prediction and Population 2001 had large amount of missing values.We used label encoder for categorical features like 'SVM' 'State' etc.
